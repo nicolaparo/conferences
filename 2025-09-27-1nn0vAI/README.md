@@ -2,7 +2,9 @@
 ## Conference Presentation by Nicola Paro
 
 Welcome to the repository for my conference presentation on bringing local AI capabilities to Raspberry Pi devices using Ollama. Here, you'll find resources and insights from my talk, aimed at demystifying the process of running Large Language Models (LLMs) locally, and exploring the practicalities, benefits, and challenges involved.
+## Demo Code Reference
 
+The code demonstrated during the presentation is available on GitHub: [InnovAIDemo](https://github.com/nicolaparo/InnovAIDemo/). Explore the repository for practical examples and implementation details.
 ## Overview
 
 In this presentation, I share my journey and findings on deploying LLMs directly on Raspberry Pi hardware. The motivation stems from a desire to enhance privacy, reduce costs, and enable offline AI functionality—making advanced language models accessible even in disconnected or resource-constrained environments.
