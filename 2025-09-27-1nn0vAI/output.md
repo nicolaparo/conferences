@@ -665,5 +665,3 @@ Solutions Architect @ beanTech
 codice
 
 https://www.linkedin.com/in/nicolaparo/
-
-

@@ -1,13 +1,28 @@
 # Conference Presentations
 
+## English
+
 Welcome to my conference archive.
 
 This repository collects talks I delivered across community events, meetups, and conferences. Each event folder contains:
 
 - a PDF version of the presentation
-- a dedicated README with a concise content summary, main topics, and key takeaways
+- a Markdown extraction of the PDF generated with MarkItDown (`output.md`)
+- a bilingual README (English and Italian) with a balanced summary of the presentation content
 
 If you are browsing for inspiration, a specific topic, or material from a particular event, the index below is the fastest path.
+
+## Italiano
+
+Benvenuto nel mio archivio conferenze.
+
+Questo repository raccoglie i talk che ho presentato in eventi community, meetup e conferenze. Ogni cartella evento contiene:
+
+- la versione PDF della presentazione
+- l'estrazione Markdown del PDF generata con MarkItDown (`output.md`)
+- un README bilingue (inglese e italiano) con una sintesi bilanciata del contenuto della presentazione
+
+Se stai cercando ispirazione, un argomento specifico o materiale di un evento particolare, l'indice qui sotto e il punto di accesso piu rapido.
 
 Sessionize profile: [Nicola Paro](https://sessionize.com/nicolaparo)
 
